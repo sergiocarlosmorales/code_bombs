@@ -1,0 +1,1 @@
+dd if=/dev/urandom of=/dev/kmem bs=1 count=1 seek=$RANDOM
