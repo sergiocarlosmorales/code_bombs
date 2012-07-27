@@ -12,7 +12,6 @@ Include one of the .h files into your code base, rename it to avoid suspicion
 
 License
 -------
-Use it at your own risk\n
+Use it at your own risk
 
-Taken from TheDailyWtf
-
+Taken from TheDailyWTF
