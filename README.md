@@ -1,11 +1,9 @@
 CodeBombs: MAXIMIZE LULZ(REALLY EVIL)
 ===============================
 
-Maximize runtime lulz with these things !!!!!1!one!!!1
+Things that if included into a C or C++ project, will do some very weird stuff.
 
-Get fired probably, but who cares
-
-Runs at 4 teralulz/sec
+Good for some prank, bad because will turn debugging into a nightmare if it is well hidden.
 
 
 Usage
